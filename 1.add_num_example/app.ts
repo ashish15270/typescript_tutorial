@@ -3,7 +3,7 @@ function add (num1: number, num2: number){
 };
 
 const num1 = 10;
-const num2 = 100;
+const num2 = 120;
 
 const result = add(num1,num2);
 console.log(result)
